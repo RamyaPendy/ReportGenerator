@@ -1,5 +1,5 @@
 added segment (ID=1243324, type=road, [-84366674, 45876553, -84366698, 45876568])
-This is a test file
+This is a test file which validates edits count
 move node (ID=7746632 from [-84366674, 45876553] to [-84366675, 45876556])
 deleted node (ID=887463, type=POI, [-84365563, 458764443])
 Added more edits in this file
